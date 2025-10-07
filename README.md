@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+### About me : 
+I'm Frontend Developer from Russia 🇷🇺
 - 🚀 React js frontend developer.
 - 📚 I'm trying to improve my frontend development.
 - 💼 In my free time I work on various React projects.
