@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+
 <!--
 **Marin322/Marin322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
