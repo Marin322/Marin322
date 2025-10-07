@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🚀 React js frontend developer.
-📚 I'm trying to improve my frontend development.
-💼 In my free time I work on various React projects.
+- 🚀 React js frontend developer.
+- 📚 I'm trying to improve my frontend development.
+- 💼 In my free time I work on various React projects.
 
 <!--
 **Marin322/Marin322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
