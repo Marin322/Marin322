@@ -28,7 +28,7 @@ I'm Frontend Developer from Russia.
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=Compact layout&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=Compact&theme=tokyonight&include_all_commits=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marin322&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marin322&theme=github-dark-dimmed&background=000000&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&card_width=1000)](https://git.io/streak-stats)
