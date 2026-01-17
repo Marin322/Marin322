@@ -33,10 +33,10 @@ I'm Frontend Developer from Russia.
 
 ### :fire: My Stats :
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marin322)](https://github.com/anuraghazra/github-readme-stats)
+[](https://github-readme-stats.vercel.app/api?username=Marin322)](https://github.com/anuraghazra/github-readme-stats)
 <!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Marin322&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=Marin322&theme=github-dark-dimmed&background=000000&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&card_width=1000)](https://git.io/streak-stats)
+[](http://github-readme-streak-stats.herokuapp.com?user=Marin322&theme=github-dark-dimmed&background=000000&stroke=00D1FF&ring=00D1FF&fire=00D1FF&currStreakLabel=00D1FF&card_width=1000)](https://git.io/streak-stats)
 
 <!--
 **Marin322/Marin322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
