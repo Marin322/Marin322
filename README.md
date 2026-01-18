@@ -33,8 +33,8 @@ I'm Frontend Developer from Russia.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marin322&theme=dark)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marin322&theme=dark)](https://git.io/streak-stats)-->
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
 ![](https://nirzak-streak-stats.vercel.app/?user=Marin322&theme=dark&hide_border=false)
 
 <!--
