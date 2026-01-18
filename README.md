@@ -34,8 +34,8 @@ I'm Frontend Developer from Russia.
 
 ### :fire: My Stats :
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marin322&show_icons=true&theme=radical)
-![](https://nirzak-streak-stats.vercel.app/?user=Kacheer&theme=dark&hide_border=false)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![](https://nirzak-streak-stats.vercel.app/?user=Marin322&theme=dark&hide_border=false)
 
 <!--
 **Marin322/Marin322** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
