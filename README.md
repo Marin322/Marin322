@@ -34,7 +34,7 @@ I'm Frontend Developer from Russia.
 
 ### :fire: My Stats :
 
-![](https://github-readme-stats.vercel.app/api?username=Kacheer&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Marin322&show_icons=true&theme=radical)
 ![](https://nirzak-streak-stats.vercel.app/?user=Kacheer&theme=dark&hide_border=false)
 
 <!--
