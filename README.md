@@ -17,13 +17,15 @@ I'm Frontend Developer from Russia.
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; -->
-  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,insomnia,react,tailwind,vscode)](https://skillicons.dev)
+  
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,react,tailwind,vscode)](https://skillicons.dev)
 
   ### Learning :
   <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; -->
+  
   [![My Skills](https://skillicons.dev/icons?i=nestjs,ts,prisma,vite)](https://skillicons.dev)
 </div>
 
@@ -31,14 +33,16 @@ I'm Frontend Developer from Russia.
 
 <div>
   <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp; -->
+  
   [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 </div>
-
 ---
 
 ### :fire: My Stats :
-<!--[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marin322&theme=dark)](https://git.io/streak-stats)-->
-<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)-->
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Marin322&theme=dark)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ![](https://nirzak-streak-stats.vercel.app/?user=Marin322&theme=dark&hide_border=false)
 
 <!--
