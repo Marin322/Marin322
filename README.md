@@ -39,7 +39,7 @@ I'm Frontend Developer from Russia.
 
 ### :fire: My Stats :
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Marin322&stats_format=bytes)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://nirzak-streak-stats.vercel.app/?user=Marin322&theme=dark&hide_border=false)
 
