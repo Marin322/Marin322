@@ -10,25 +10,28 @@ I'm Frontend Developer from Russia.
 ### :hammer_and_wrench: Languages and Tools :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" title="React" alt="React" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-plain.svg" title="HTML" alt="HTML" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" title="CSS" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JS" alt="JS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; -->
+  [![My Skills](https://skillicons.dev/icons?i=js,html,css,git,github,insomnia,react,tailwind,vscode)](https://skillicons.dev)
 
   ### Learning :
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <!--<img src="https://github.com/devicons/devicon/blob/master/icons/nestjs/nestjs-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/prisma/prisma-original.svg" title="GitHub" alt="GitHub" width="40" height="40"/>&nbsp; -->
+  [![My Skills](https://skillicons.dev/icons?i=nestjs,ts,prisma,vite)](https://skillicons.dev)
 </div>
 
 ### Databases :
 
 <div>
-  <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp;
+  <!-- <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-plain.svg" title="Postgresql" alt="Postgresql" width="40" height="40"/>&nbsp; -->
+  [![My Skills](https://skillicons.dev/icons?i=postgres)](https://skillicons.dev)
 </div>
 
 ---
